@@ -1,2 +1,3 @@
-# Peatland-Disturbance-C-Pools
-Data and R scripts for the manuscript 'Disturbance alters ecological links between soil peatland carbon pools and aboveground vegetation attributes'
+# Disturbance alters relationships between soil carbon pools and aboveground vegetation attributes in an anthropogenic peatland in Patagonia
+
+Data and R scripts for the manuscript 'Disturbance alters relationships between soil carbon pools and aboveground vegetation attributes in an anthropogenic peatland in Patagonia' Submitted to Ecology and Evolution.
